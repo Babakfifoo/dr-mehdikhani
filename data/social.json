@@ -1,0 +1,19 @@
+{
+    "main": [
+        {
+            "name":"Location",
+            "icon": "fab fa-map-marker",
+            "link": "https://balad.ir/p/5d9XihOCyADtho"
+        },
+        {
+            "name": "instagram",
+            "icon": "fab fa-instagram",
+            "link": "https://www.instagram.com/dr.shahin.mehdikhani/"
+        },
+        {
+            "name": "linkedin",
+            "icon": "fab fa-linkedin",
+            "link": "https://www.linkedin.com/in/shahin-mehdikhani-720a4bb1/"
+        }
+    ]
+}

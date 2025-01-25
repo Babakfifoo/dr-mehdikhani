@@ -1,0 +1,54 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "خانه"
+url = "/"
+weight = 1
+
+[[main]]
+name = "درباره ما"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "تماس"
+url = "/contact"
+weight = 3
+
+# [[main]]
+# name = "Elements"
+# url = "/elements"
+# weight = 3
+
+# [[main]]
+# name = "خدمات"
+# url = "/categories"
+# weight = 4
+
+# [[main]]
+# parent = "خدمات"
+# name = "Blog"
+# url = "/blog"
+
+# [[main]]
+# parent = "خدمات"
+# name = "Authors"
+# url = "/authors"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "/404"
+
+
+# footer menu
+[[footer]]
+name = "درباره ما"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
